@@ -1,4 +1,5 @@
 English
+
 This project automates student performance evaluation and email notifications. It includes scripts for querying a PostgreSQL database, calculating total and average scores, filtering approved and rejected students, and sending personalized emails with the results. Additionally, a module named Students-Generator.py allows users to generate a specified number of student records and insert them directly into the PostgreSQL database for further analysis.
 
 Files and Modules:
